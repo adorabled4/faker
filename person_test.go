@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/cj/faker/pkg/slice"
+	"github.com/adorabled4/faker/pkg/slice"
 )
 
 func TestTitleMale(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	fakerErrors "github.com/cj/faker/pkg/errors"
+	fakerErrors "github.com/adorabled4/faker/pkg/errors"
 )
 
 func extractFloat64FromTagArgs(args []string) (interface{}, error) {

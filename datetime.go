@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/cj/faker/pkg/options"
+	"github.com/adorabled4/faker/pkg/options"
 )
 
 var century = []string{"I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX", "XXI"}

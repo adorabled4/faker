@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/cj/faker/pkg/options"
+	"github.com/adorabled4/faker/pkg/options"
 )
 
 var tld = []string{"com", "biz", "info", "net", "org", "ru", "edu", "top"}

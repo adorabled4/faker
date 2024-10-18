@@ -3,7 +3,7 @@ package faker_test
 import (
 	"fmt"
 
-	"github.com/cj/faker"
+	"github.com/adorabled4/faker"
 )
 
 // Single fake function can be used for retrieving particular values.

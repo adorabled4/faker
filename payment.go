@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/cj/faker/pkg/options"
+	"github.com/adorabled4/faker/pkg/options"
 )
 
 const (

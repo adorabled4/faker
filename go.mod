@@ -1,4 +1,4 @@
-module github.com/cj/faker
+module github.com/adorabled4/faker
 
 go 1.18
 

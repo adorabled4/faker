@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/cj/faker"
+	"github.com/adorabled4/faker"
 )
 
 // Gondoruwo ...

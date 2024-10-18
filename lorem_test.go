@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cj/faker/pkg/options"
-	"github.com/cj/faker/pkg/slice"
+	"github.com/adorabled4/faker/pkg/options"
+	"github.com/adorabled4/faker/pkg/slice"
 )
 
 func TestWord(t *testing.T) {

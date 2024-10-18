@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	fakerErrors "github.com/cj/faker/pkg/errors"
+	fakerErrors "github.com/adorabled4/faker/pkg/errors"
 )
 
 func TestExtractFloat64(t *testing.T) {

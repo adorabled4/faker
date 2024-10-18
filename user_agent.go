@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/cj/faker/pkg/interfaces"
+	"github.com/adorabled4/faker/pkg/interfaces"
 )
 
 var (

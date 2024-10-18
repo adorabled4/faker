@@ -14,10 +14,10 @@ import (
 	"sync"
 	"time"
 
-	fakerErrors "github.com/cj/faker/pkg/errors"
-	"github.com/cj/faker/pkg/interfaces"
-	"github.com/cj/faker/pkg/options"
-	"github.com/cj/faker/pkg/slice"
+	fakerErrors "github.com/adorabled4/faker/pkg/errors"
+	"github.com/adorabled4/faker/pkg/interfaces"
+	"github.com/adorabled4/faker/pkg/options"
+	"github.com/adorabled4/faker/pkg/slice"
 )
 
 var (

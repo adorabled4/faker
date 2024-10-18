@@ -7,8 +7,8 @@ import (
 	"sync/atomic"
 	"unsafe"
 
-	fakerErrors "github.com/cj/faker/pkg/errors"
-	"github.com/cj/faker/pkg/interfaces"
+	fakerErrors "github.com/adorabled4/faker/pkg/errors"
+	"github.com/adorabled4/faker/pkg/interfaces"
 )
 
 var (

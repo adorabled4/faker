@@ -3,8 +3,8 @@ package faker_test
 import (
 	"fmt"
 
-	"github.com/cj/faker"
-	"github.com/cj/faker/pkg/options"
+	"github.com/adorabled4/faker"
+	"github.com/adorabled4/faker/pkg/options"
 )
 
 // You can set length for your random strings also set boundary for your integers.
